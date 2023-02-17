@@ -1,0 +1,5 @@
+/home/sten/github/client/build/CMakeFiles/srt_project.dir
+/home/sten/github/client/build/CMakeFiles/srt_project-build.dir
+/home/sten/github/client/build/CMakeFiles/srt-test-client.dir
+/home/sten/github/client/build/CMakeFiles/edit_cache.dir
+/home/sten/github/client/build/CMakeFiles/rebuild_cache.dir

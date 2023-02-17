@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/sten/github/client/build/CMakeFiles/srt_project"
+		},
+		{
+			"file" : "/home/sten/github/client/build/CMakeFiles/srt_project.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/CMakeFiles/srt_project-complete.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-build.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-configure.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-download.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-install.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-mkdir.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-patch.rule"
+		},
+		{
+			"file" : "/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"srt_project"
+		],
+		"name" : "srt_project"
+	}
+}

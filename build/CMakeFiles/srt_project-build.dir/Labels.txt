@@ -1,0 +1,11 @@
+# Target labels
+ srt_project
+# Source files and their labels
+/home/sten/github/client/build/CMakeFiles/srt_project-build
+/home/sten/github/client/build/CMakeFiles/srt_project-build.rule
+/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-build.rule
+/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-configure.rule
+/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-patch.rule
+/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-update.rule
+/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-download.rule
+/home/sten/github/client/build/srt_project-prefix/src/srt_project-stamp/srt_project-mkdir.rule
