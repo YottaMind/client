@@ -39,10 +39,21 @@ add_dependencies(srt srt_project)
 include_directories(${CMAKE_CURRENT_BINARY_DIR}/srt/)
 include_directories(${CMAKE_CURRENT_BINARY_DIR}/srt/common)
 
+find_package(PkgConfig REQUIRED)
+pkg_check_modules(LIBAV REQUIRED IMPORTED_TARGET
+    libavdevice
+    libavfilter
+    libavformat
+    libavcodec
+    libswresample
+    libswscale
+    libavutil
+)
+
 add_executable(srt-test-client client.cpp)
 target_compile_options(srt-test-client PRIVATE -Wall -Wextra -pedantic)
 
-target_link_libraries(srt-test-client srt ${OPENSSL_LIBRARIES} Threads::Threads)
+target_link_libraries(srt-test-client srt ${OPENSSL_LIBRARIES} Threads::Threads PkgConfig::LIBAV)
 
 
 
