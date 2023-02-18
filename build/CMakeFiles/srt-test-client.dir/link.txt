@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/srt-test-client.dir/client.cpp.o" -o srt-test-client  srt/libsrt.a /usr/lib/x86_64-linux-gnu/libssl.so /usr/lib/x86_64-linux-gnu/libcrypto.so 

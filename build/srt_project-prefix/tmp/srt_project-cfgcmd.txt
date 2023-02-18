@@ -1,1 +1,0 @@
-cmd='/home/linuxbrew/.linuxbrew/Cellar/cmake/3.25.2/bin/cmake;-DCMAKE_POSITION_INDEPENDENT_CODE=ON;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'
